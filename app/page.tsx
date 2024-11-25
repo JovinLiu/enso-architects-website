@@ -1,3 +1,4 @@
+//https://www.simplicity.co.jp/en/
 import Image from "next/image";
 
 export default function Home() {
